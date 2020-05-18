@@ -6,6 +6,10 @@ Some appendices included an amount of data that could not feasibly fit in to a t
 
 On a desktop computer, only a portion of the graphs may show. To get the full graph, click the grey "Download" button in the top right.
 
+## Appendix A
+
+This folder contains the programs that were created by the author for this research.
+
 ## Appendix C
 
 There is a folder for each politician. The folders contain all graphs generated for that politician. 
